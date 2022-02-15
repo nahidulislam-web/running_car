@@ -1,0 +1,31 @@
+h1{
+    background: rgb(245, 241, 10);
+    color: black;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: auto;
+}
+#main{
+    border: 1px solid green;
+    height:300px;
+}
+#start, #stopcar{
+padding: 13px;
+background: rgb(98, 128, 184);
+color: rgb(250, 243, 243);
+font-size: 20px;
+margin-right: 20px;
+border-radius: 9%;
+margin-bottom: 20px;
+padding:10px 20px ;
+box-shadow: 2px 4px 4px black;
+}
+
+.secound{
+    text-align: center;
+    margin-top: 20px;
+}
